@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react"
-import { client, urlFor } from "../../../sanity-client/client"
+import { client, urlFor } from "../../../sanity-details/client"
 import { reviews } from './../../data/Reviews'
 
 export default function Homepage() {
